@@ -9,5 +9,5 @@ Deburring in skeleton BW image
 >使得检测的裂纹更`平滑、合理`<br>
 ***
 ```Auther: L. LIAO``` <br>
-[```IDIPLAB·UESCT```](gispalab.uestc.edu.cn)
+[```IDIPLAB·UESCT```](http://gispalab.uestc.edu.cn "Markdown")
 ***
