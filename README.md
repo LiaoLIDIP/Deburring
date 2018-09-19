@@ -8,6 +8,6 @@ Deburring in skeleton BW image
 >本函数的功能是对图片中提取的骨架毛刺进行抑制<br>
 >使得检测的裂纹更`平滑、合理`<br>
 ***
-```Auther: LIAO.L``` <br>
+```Auther:``` [```LIAO.L```](http://gispalab.uestc.edu.cn/studentNow/849.htm "Markdown") <br>
 [```IDIPLAB·UESCT```](http://gispalab.uestc.edu.cn "Markdown")
 ***
